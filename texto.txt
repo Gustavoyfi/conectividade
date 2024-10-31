@@ -1,0 +1,6 @@
+cd "C:\Users\Gustavo Yuri\OneDrive\Documentos\conectividade"
+python teste2.py 127.0.0.1
+python teste1.py localhost  
+
+
+python privado2.py 127.0.0.1 1060
